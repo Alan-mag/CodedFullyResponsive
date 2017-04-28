@@ -1,0 +1,8 @@
+@import '../base/variables';
+@import '../base/mixins';
+
+footer {
+    background: $prim-color;
+    color: $white;
+    padding: 2px;
+}

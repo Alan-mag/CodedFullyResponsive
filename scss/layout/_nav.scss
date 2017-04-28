@@ -1,0 +1,14 @@
+@import '../base/variables';
+
+nav {
+    background: $tert-color;
+    //padding: 2px;
+    height: 25px;;
+    border-top: 4px solid $qua-color;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    a {
+        color: $white;
+        text-decoration: none;
+    }
+}

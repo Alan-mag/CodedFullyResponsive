@@ -1,0 +1,22 @@
+html {
+  font-family: lato, helvetica; }
+
+body {
+  background: #fff; }
+
+footer {
+  background: #1871CC;
+  color: #fff;
+  padding: 2px; }
+
+nav {
+  background: #406C99;
+  height: 25px;
+  border-top: 4px solid #FF6C44;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px; }
+  nav a {
+    color: #fff;
+    text-decoration: none; }
+
+/*# sourceMappingURL=application.css.map */
